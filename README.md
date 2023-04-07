@@ -1,6 +1,6 @@
 # Python
 
-Repository containing examples of Java code I have written.
+Repository containing examples of Python code I have written.
 
 ## Code Description
 
