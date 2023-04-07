@@ -8,6 +8,7 @@ Repository containing examples of Python code I have written.
 * **fastqPar**:This code allows the user to perform two different tasks on a FASTQ file. The first task is to generate an amino acid count from a specified sequence, while the second task is to trim the nucleotide sequence based on the quality score.
 * **fastaPar**: This code defines a function fastaParser() that reads a fasta file and returns each sequence header and sequence as a tuple. It then defines a main function that calls fastaParser() and prints out each sequence header and sequence.
 * **fastaTupPrac**: This code reads in DNA sequences from a file in FASTA format and performs several analyses on the sequences. 
+* **seqOOP**: This notenook uses OOP to parse sequences. 
 * **pandasCovidTS**: This notebook uses public covid data to examine trends related to the virus. 
 * **numFinderFunctions**: This code is a number finder. The first function designed uses a brute-force approach. It loops through the entire set of numbers from 0-X, stopping when you've found the "secret" number
 The second function starts at the midpoint of the range 0 to X, and asks if the secret number is smaller or larger than the midpoint. Based on that answer, the next midpoint is found and the question is asked again, repeating this process until the secret number is found.
